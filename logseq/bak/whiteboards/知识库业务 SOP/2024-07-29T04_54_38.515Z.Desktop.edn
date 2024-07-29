@@ -29,25 +29,25 @@
 :italic false
 :text "知识库服务\nsop-server: sop-management"}}
 :block/updated-at 1722226383917} 
-{:block/created-at 1722229416488
+{:block/created-at 1722226363105
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:isSizeLocked true
-:stroke "yellow"
+:stroke nil
 :borderRadius 0
 :index 1
 :scale [1 1]
-:refs ["账户服务"]
-:scaleLevel "md"
-:fill "yellow"
-:type "text"
-:size [222 58]
-:fontFamily "var(--ls-font-family)"
-:strokeType "line"
+:refs [nil]
+:scaleLevel nil
+:fill nil
+:type nil
+:size [229 58]
+:fontFamily nil
+:strokeType nil
 :strokeWidth 2
 :opacity 1
-:id "c00464c0-4d5f-11ef-92f0-57e9079861eb"
+:id nil
 :padding 4
 :fontWeight 400
 :noFill true
@@ -55,22 +55,22 @@
 :point [232 280]
 :lineHeight 1.2
 :fontSize 20
-:parentId "66a71437-c3c0-43af-b4ae-82f23aec0692"
-:nonce 1722225796823
+:parentId nil
+:nonce 1722225796819
 :italic false
-:text "账户服务\nsmartiot：iot-user-mgt"}}
-:block/updated-at 1722229416488} 
-{:block/created-at 1722229377592
+:text nil}}
+:block/updated-at 1722226363105} 
+{:block/created-at 1722226147462
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:isSizeLocked true
-:stroke "#0580cc"
+:stroke ""
 :borderRadius 0
 :index 2
 :scale [1 1]
 :scaleLevel "md"
-:fill "#0580cc"
+:fill ""
 :type "text"
 :size [151 58]
 :fontFamily "var(--ls-font-family)"
@@ -85,23 +85,22 @@
 :lineHeight 1.2
 :fontSize 20
 :parentId "66a71437-c3c0-43af-b4ae-82f23aec0692"
-:nonce 1722226049733
+:nonce 1722226049721
 :italic false
 :text "知识库管理页面\nsop-admin"}}
-:block/updated-at 1722229377592})
+:block/updated-at 1722226147462})
 :pages (
 {:block/uuid #uuid "66a71437-c3c0-43af-b4ae-82f23aec0692"
 :block/properties 
 {:ls-type :whiteboard-page
 :logseq.tldraw.page 
 {:id "66a71437-c3c0-43af-b4ae-82f23aec0692"
-:name "知识库业务 sop"
+:name "66a71437-c3c0-43af-b4ae-82f23aec0692"
 :bindings 
 {}
 :nonce 1
 :assets []
-:shapes-index ("7bb24fd0-4d5f-11ef-92f0-57e9079861eb" "c00464c0-4d5f-11ef-92f0-57e9079861eb" "129c5850-4d60-11ef-92f0-57e9079861eb")}}
-:block/updated-at 1722229416487
+:block/updated-at 1722226651430
 :block/created-at 1722225719529
 :block/type "whiteboard"
 :block/name "知识库业务 sop"
