@@ -28,7 +28,7 @@
 :italic false
 :text "知识库服务\nsop-server: sop-management"}}
 :block/updated-at 1722226167747} 
-{:block/created-at 1722226001877
+{:block/created-at 1722226217038
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -40,7 +40,7 @@
 :scaleLevel "md"
 :fill "yellow"
 :type "text"
-:size [237 58]
+:size [229 58]
 :fontFamily "var(--ls-font-family)"
 :strokeType "line"
 :strokeWidth 2
@@ -54,10 +54,10 @@
 :lineHeight 1.2
 :fontSize 20
 :parentId "66a71437-c3c0-43af-b4ae-82f23aec0692"
-:nonce 1722225796779
+:nonce 1722225796805
 :italic false
-:text "用户服务\nSmartIoT：iot-user-mgt"}}
-:block/updated-at 1722226001877} 
+:text "用户服务\nsmartiot：iot-user-mgt"}}
+:block/updated-at 1722226217038} 
 {:block/created-at 1722226147462
 :block/properties 
 {:ls-type :whiteboard-shape
@@ -99,7 +99,7 @@
 :nonce 1
 :assets []
 :shapes-index ("7bb24fd0-4d5f-11ef-92f0-57e9079861eb" "c00464c0-4d5f-11ef-92f0-57e9079861eb" "129c5850-4d60-11ef-92f0-57e9079861eb")}}
-:block/updated-at 1722226167746
+:block/updated-at 1722226217038
 :block/created-at 1722225719529
 :block/type "whiteboard"
 :block/name "66a71437-c3c0-43af-b4ae-82f23aec0692"
