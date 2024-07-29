@@ -101,8 +101,8 @@
 :nonce 1
 :assets []
 :shapes-index ("7bb24fd0-4d5f-11ef-92f0-57e9079861eb" "c00464c0-4d5f-11ef-92f0-57e9079861eb" "129c5850-4d60-11ef-92f0-57e9079861eb")}}
-:block/updated-at 1722226383917
+:block/updated-at 1722226651430
 :block/created-at 1722225719529
 :block/type "whiteboard"
-:block/name "66a71437-c3c0-43af-b4ae-82f23aec0692"
-:block/original-name "66a71437-c3c0-43af-b4ae-82f23aec0692"})}
+:block/name "知识库业务 sop"
+:block/original-name "知识库业务 SOP"})}
