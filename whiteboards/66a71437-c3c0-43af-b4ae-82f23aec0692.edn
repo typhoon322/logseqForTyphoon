@@ -1,0 +1,77 @@
+{:blocks (
+{:block/created-at 1722225946464
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked true
+:stroke ""
+:borderRadius 0
+:index 0
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "text"
+:size [237 58]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "7bb24fd0-4d5f-11ef-92f0-57e9079861eb"
+:padding 4
+:fontWeight 400
+:noFill true
+:point [232 144]
+:lineHeight 1.2
+:fontSize 20
+:parentId "66a71437-c3c0-43af-b4ae-82f23aec0692"
+:nonce 1722225796708
+:italic false
+:text "知识库服务\nSmartIoT：iot-user-mgt"}}
+:block/updated-at 1722225946464} 
+{:block/created-at 1722225920596
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked true
+:stroke ""
+:borderRadius 0
+:index 1
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "text"
+:size [237 58]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "c00464c0-4d5f-11ef-92f0-57e9079861eb"
+:padding 4
+:fontWeight 400
+:noFill true
+:isLocked false
+:point [232 280]
+:lineHeight 1.2
+:fontSize 20
+:parentId "66a71437-c3c0-43af-b4ae-82f23aec0692"
+:nonce 1722225796777
+:italic false
+:text "用户服务\nSmartIoT：iot-user-mgt"}}
+:block/updated-at 1722225920596})
+:pages (
+{:block/uuid #uuid "66a71437-c3c0-43af-b4ae-82f23aec0692"
+:block/properties 
+{:ls-type :whiteboard-page
+:logseq.tldraw.page 
+{:id "66a71437-c3c0-43af-b4ae-82f23aec0692"
+:name "66a71437-c3c0-43af-b4ae-82f23aec0692"
+:bindings 
+{}
+:nonce 1
+:assets []
+:shapes-index ("7bb24fd0-4d5f-11ef-92f0-57e9079861eb" "c00464c0-4d5f-11ef-92f0-57e9079861eb")}}
+:block/updated-at 1722225946464
+:block/created-at 1722225719529
+:block/type "whiteboard"
+:block/name "66a71437-c3c0-43af-b4ae-82f23aec0692"
+:block/original-name "66a71437-c3c0-43af-b4ae-82f23aec0692"})}
