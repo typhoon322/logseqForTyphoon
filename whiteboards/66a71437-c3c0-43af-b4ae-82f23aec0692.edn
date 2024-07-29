@@ -1,17 +1,17 @@
 {:blocks (
-{:block/created-at 1722225946464
+{:block/created-at 1722225986791
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:isSizeLocked true
-:stroke ""
+:stroke "yellow"
 :borderRadius 0
 :index 0
 :scale [1 1]
 :scaleLevel "md"
-:fill ""
+:fill "yellow"
 :type "text"
-:size [237 58]
+:size [179 58]
 :fontFamily "var(--ls-font-family)"
 :strokeType "line"
 :strokeWidth 2
@@ -24,21 +24,21 @@
 :lineHeight 1.2
 :fontSize 20
 :parentId "66a71437-c3c0-43af-b4ae-82f23aec0692"
-:nonce 1722225796708
+:nonce 1722225796727
 :italic false
-:text "知识库服务\nSmartIoT：iot-user-mgt"}}
-:block/updated-at 1722225946464} 
-{:block/created-at 1722225920596
+:text "知识库服务\nsop-management"}}
+:block/updated-at 1722225986791} 
+{:block/created-at 1722226001877
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:isSizeLocked true
-:stroke ""
+:stroke "yellow"
 :borderRadius 0
 :index 1
 :scale [1 1]
 :scaleLevel "md"
-:fill ""
+:fill "yellow"
 :type "text"
 :size [237 58]
 :fontFamily "var(--ls-font-family)"
@@ -54,10 +54,10 @@
 :lineHeight 1.2
 :fontSize 20
 :parentId "66a71437-c3c0-43af-b4ae-82f23aec0692"
-:nonce 1722225796777
+:nonce 1722225796779
 :italic false
 :text "用户服务\nSmartIoT：iot-user-mgt"}}
-:block/updated-at 1722225920596})
+:block/updated-at 1722226001877})
 :pages (
 {:block/uuid #uuid "66a71437-c3c0-43af-b4ae-82f23aec0692"
 :block/properties 
@@ -70,7 +70,7 @@
 :nonce 1
 :assets []
 :shapes-index ("7bb24fd0-4d5f-11ef-92f0-57e9079861eb" "c00464c0-4d5f-11ef-92f0-57e9079861eb")}}
-:block/updated-at 1722225946464
+:block/updated-at 1722226001876
 :block/created-at 1722225719529
 :block/type "whiteboard"
 :block/name "66a71437-c3c0-43af-b4ae-82f23aec0692"
