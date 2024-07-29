@@ -57,7 +57,36 @@
 :nonce 1722225796779
 :italic false
 :text "用户服务\nSmartIoT：iot-user-mgt"}}
-:block/updated-at 1722226001877})
+:block/updated-at 1722226001877} 
+{:block/created-at 1722226055255
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked true
+:stroke ""
+:borderRadius 0
+:index 2
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "text"
+:size [118 34]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "129c5850-4d60-11ef-92f0-57e9079861eb"
+:padding 4
+:fontWeight 400
+:noFill true
+:point [-48 200]
+:lineHeight 1.2
+:fontSize 20
+:parentId "66a71437-c3c0-43af-b4ae-82f23aec0692"
+:nonce 1722226049637
+:italic false
+:text "SOP Admin"}}
+:block/updated-at 1722226055255})
 :pages (
 {:block/uuid #uuid "66a71437-c3c0-43af-b4ae-82f23aec0692"
 :block/properties 
@@ -69,8 +98,8 @@
 {}
 :nonce 1
 :assets []
-:shapes-index ("7bb24fd0-4d5f-11ef-92f0-57e9079861eb" "c00464c0-4d5f-11ef-92f0-57e9079861eb")}}
-:block/updated-at 1722226001876
+:shapes-index ("7bb24fd0-4d5f-11ef-92f0-57e9079861eb" "c00464c0-4d5f-11ef-92f0-57e9079861eb" "129c5850-4d60-11ef-92f0-57e9079861eb")}}
+:block/updated-at 1722226055255
 :block/created-at 1722225719529
 :block/type "whiteboard"
 :block/name "66a71437-c3c0-43af-b4ae-82f23aec0692"
