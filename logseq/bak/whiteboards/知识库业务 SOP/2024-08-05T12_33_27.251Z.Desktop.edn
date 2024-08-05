@@ -1,0 +1,186 @@
+{:blocks (
+{:block/created-at 1722231593265
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "green"
+:rotation 0
+:borderRadius 2
+:index 0
+:scale [1 1]
+:refs ["前端-知识库管理"]
+:scaleLevel "md"
+:fill "green"
+:type "box"
+:size [200 312]
+:strokeType "dashed"
+:strokeWidth 2
+:opacity 1
+:label "知识库管理页面\nsop-admin"
+:id "88b251e0-4d68-11ef-9474-f3fc38d0b097"
+:fontWeight 400
+:noFill true
+:point [-88 120]
+:fontSize 20
+:parentId "66a71437-c3c0-43af-b4ae-82f23aec0692"
+:nonce 1722229684038
+:italic false}}
+:block/updated-at 1722231593265} 
+{:block/created-at 1722229900959
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "green"
+:rotation 0
+:borderRadius 2
+:index 1
+:scale [1 1]
+:refs ["知识库服务"]
+:scaleLevel "md"
+:fill "green"
+:type "box"
+:size [320 136]
+:strokeType "dashed"
+:strokeWidth 2
+:opacity 1
+:label "知识库服务\nsop-server: sop-management"
+:id "b39c09a0-4d68-11ef-9474-f3fc38d0b097"
+:fontWeight 400
+:noFill true
+:isLocked false
+:point [272 120]
+:fontSize 20
+:parentId "66a71437-c3c0-43af-b4ae-82f23aec0692"
+:nonce 1722229684705
+:italic false}}
+:block/updated-at 1722229900959} 
+{:block/created-at 1722229900959
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke "green"
+:rotation 0
+:borderRadius 2
+:index 2
+:scale [1 1]
+:refs ["账户服务"]
+:scaleLevel "md"
+:fill "green"
+:type "box"
+:size [320 136]
+:strokeType "dashed"
+:strokeWidth 2
+:opacity 1
+:label "账户服务\nsmartiot：iot-user-mgt"
+:id "bbb0fa10-4d68-11ef-9474-f3fc38d0b097"
+:fontWeight 400
+:noFill true
+:isLocked false
+:point [272 296]
+:fontSize 20
+:parentId "66a71437-c3c0-43af-b4ae-82f23aec0692"
+:nonce 1722229684605
+:italic false}}
+:block/updated-at 1722229900959} 
+{:block/created-at 1722230104925
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 3
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "7eaebb62-4d69-11ef-9474-f3fc38d0b097"
+:fontWeight 400
+:noFill true
+:point [112 183.85]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 0.15]}
+:end 
+{:id "end"
+:canBind true
+:point [156 0]
+:bindingId "7eaebb61-4d69-11ef-9474-f3fc38d0b097"}}
+:decorations 
+{:end "arrow"}
+:parentId "66a71437-c3c0-43af-b4ae-82f23aec0692"
+:nonce 1722230096505
+:italic false}}
+:block/updated-at 1722230104925} 
+{:block/created-at 1722230801907
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 4
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "82af3502-4d69-11ef-9474-f3fc38d0b097"
+:fontWeight 400
+:noFill true
+:point [112 359.85]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 0.15]}
+:end 
+{:id "end"
+:canBind true
+:point [156 0]
+:bindingId "82af3501-4d69-11ef-9474-f3fc38d0b097"}}
+:decorations 
+{:end "arrow"}
+:parentId "66a71437-c3c0-43af-b4ae-82f23aec0692"
+:nonce 1722230103202
+:italic false}}
+:block/updated-at 1722230801907})
+:pages (
+{:block/uuid #uuid "66a71437-c3c0-43af-b4ae-82f23aec0692"
+:block/properties 
+{:ls-type :whiteboard-page
+:logseq.tldraw.page 
+{:id "66a71437-c3c0-43af-b4ae-82f23aec0692"
+:name "知识库业务 sop"
+:bindings 
+{:7eaebb61-4d69-11ef-9474-f3fc38d0b097 
+{:id "7eaebb61-4d69-11ef-9474-f3fc38d0b097"
+:type "line"
+:fromId "7eaebb62-4d69-11ef-9474-f3fc38d0b097"
+:toId "b39c09a0-4d68-11ef-9474-f3fc38d0b097"
+:handleId "end"
+:point [0.51 0.47]
+:distance 4}
+:82af3501-4d69-11ef-9474-f3fc38d0b097 
+{:id "82af3501-4d69-11ef-9474-f3fc38d0b097"
+:type "line"
+:fromId "82af3502-4d69-11ef-9474-f3fc38d0b097"
+:toId "bbb0fa10-4d68-11ef-9474-f3fc38d0b097"
+:handleId "end"
+:point [0.51 0.47]
+:distance 4}}
+:nonce 1
+:assets []
+:shapes-index ("88b251e0-4d68-11ef-9474-f3fc38d0b097" "b39c09a0-4d68-11ef-9474-f3fc38d0b097" "bbb0fa10-4d68-11ef-9474-f3fc38d0b097" "7eaebb62-4d69-11ef-9474-f3fc38d0b097" "82af3502-4d69-11ef-9474-f3fc38d0b097")}}
+:block/updated-at 1722231593265
+:block/created-at 1722225719529
+:block/type "whiteboard"
+:block/name "知识库业务 sop"
+:block/original-name "知识库业务 SOP"})}

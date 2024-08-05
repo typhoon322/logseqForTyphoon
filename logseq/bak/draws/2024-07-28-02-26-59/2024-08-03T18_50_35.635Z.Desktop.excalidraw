@@ -5,8 +5,8 @@
   "elements": [
     {
       "type": "text",
-      "version": 56,
-      "versionNonce": 1032301443,
+      "version": 54,
+      "versionNonce": 1036310177,
       "isDeleted": false,
       "id": "6oJtH6tjaRJCXDIIOLGTr",
       "fillStyle": "hachure",
@@ -26,7 +26,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1722787281526,
+      "updated": 1722105393892,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -41,8 +41,8 @@
     },
     {
       "type": "text",
-      "version": 369,
-      "versionNonce": 12386861,
+      "version": 367,
+      "versionNonce": 1859501167,
       "isDeleted": false,
       "id": "-0DxjOAj-PcqHH29HM3Mx",
       "fillStyle": "hachure",
@@ -71,7 +71,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1722787281527,
+      "updated": 1722105483529,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -86,8 +86,8 @@
     },
     {
       "type": "text",
-      "version": 73,
-      "versionNonce": 925713187,
+      "version": 71,
+      "versionNonce": 1695156289,
       "isDeleted": false,
       "id": "MWChBOScQ3bP-A29HyDTT",
       "fillStyle": "hachure",
@@ -116,7 +116,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1722787281528,
+      "updated": 1722105429389,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -131,8 +131,8 @@
     },
     {
       "type": "text",
-      "version": 326,
-      "versionNonce": 261502093,
+      "version": 324,
+      "versionNonce": 586842433,
       "isDeleted": false,
       "id": "NvrJVW2suzNHeF5chdcq7",
       "fillStyle": "hachure",
@@ -145,14 +145,14 @@
       "y": 20,
       "strokeColor": "#1e1e1e",
       "backgroundColor": "transparent",
-      "width": 200.19912719726562,
-      "height": 24.962720539367815,
+      "width": 200.1756591796875,
+      "height": 24.962720539367776,
       "seed": 224899951,
       "groupIds": [],
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1722787281531,
+      "updated": 1722105633879,
       "link": null,
       "locked": false,
       "fontSize": 19.970176431494252,
@@ -163,12 +163,12 @@
       "containerId": null,
       "originalText": "OneMore IoT Server",
       "lineHeight": 1.25,
-      "baseline": 18
+      "baseline": 17
     },
     {
       "type": "text",
-      "version": 155,
-      "versionNonce": 58648259,
+      "version": 153,
+      "versionNonce": 977460367,
       "isDeleted": false,
       "id": "mDfsgPRPNntAGFHaz8PrH",
       "fillStyle": "hachure",
@@ -205,7 +205,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1722787281532,
+      "updated": 1722105520110,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -220,8 +220,8 @@
     },
     {
       "type": "text",
-      "version": 517,
-      "versionNonce": 626662125,
+      "version": 515,
+      "versionNonce": 761020623,
       "isDeleted": false,
       "id": "8kIHQlfNbeO0QJdNii69u",
       "fillStyle": "hachure",
@@ -246,7 +246,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1722787281534,
+      "updated": 1722105507900,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -261,8 +261,8 @@
     },
     {
       "type": "text",
-      "version": 30,
-      "versionNonce": 152770147,
+      "version": 28,
+      "versionNonce": 1192379599,
       "isDeleted": false,
       "id": "kJeLUwVmm3npEapZKVP6S",
       "fillStyle": "hachure",
@@ -287,7 +287,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1722787281535,
+      "updated": 1722105520110,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -302,8 +302,8 @@
     },
     {
       "type": "arrow",
-      "version": 17,
-      "versionNonce": 1444956625,
+      "version": 15,
+      "versionNonce": 385570497,
       "isDeleted": false,
       "id": "sQp1g7gJpsg1G9ZEKLlJK",
       "fillStyle": "hachure",
@@ -325,7 +325,7 @@
         "type": 2
       },
       "boundElements": [],
-      "updated": 1722759003813,
+      "updated": 1722105393892,
       "link": null,
       "locked": false,
       "startBinding": null,
@@ -668,8 +668,8 @@
     },
     {
       "type": "text",
-      "version": 29,
-      "versionNonce": 2056402253,
+      "version": 27,
+      "versionNonce": 1913137935,
       "isDeleted": false,
       "id": "AUwQyicKP00bDfAxuTY2R",
       "fillStyle": "hachure",
@@ -689,7 +689,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1722787281536,
+      "updated": 1722105674730,
       "link": null,
       "locked": false,
       "fontSize": 20,
