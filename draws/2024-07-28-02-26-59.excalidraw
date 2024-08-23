@@ -5,8 +5,8 @@
   "elements": [
     {
       "type": "text",
-      "version": 58,
-      "versionNonce": 2058340879,
+      "version": 59,
+      "versionNonce": 637396697,
       "isDeleted": false,
       "id": "6oJtH6tjaRJCXDIIOLGTr",
       "fillStyle": "hachure",
@@ -26,7 +26,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1723475440470,
+      "updated": 1724396296870,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -41,8 +41,8 @@
     },
     {
       "type": "text",
-      "version": 371,
-      "versionNonce": 546628193,
+      "version": 372,
+      "versionNonce": 777735991,
       "isDeleted": false,
       "id": "-0DxjOAj-PcqHH29HM3Mx",
       "fillStyle": "hachure",
@@ -71,7 +71,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1723475440471,
+      "updated": 1724396296871,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -86,8 +86,8 @@
     },
     {
       "type": "text",
-      "version": 75,
-      "versionNonce": 157921327,
+      "version": 76,
+      "versionNonce": 1932370873,
       "isDeleted": false,
       "id": "MWChBOScQ3bP-A29HyDTT",
       "fillStyle": "hachure",
@@ -116,7 +116,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1723475440471,
+      "updated": 1724396296872,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -131,8 +131,8 @@
     },
     {
       "type": "text",
-      "version": 328,
-      "versionNonce": 1600908865,
+      "version": 329,
+      "versionNonce": 1522159703,
       "isDeleted": false,
       "id": "NvrJVW2suzNHeF5chdcq7",
       "fillStyle": "hachure",
@@ -152,7 +152,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1723475440472,
+      "updated": 1724396296874,
       "link": null,
       "locked": false,
       "fontSize": 19.970176431494252,
@@ -163,12 +163,12 @@
       "containerId": null,
       "originalText": "OneMore IoT Server",
       "lineHeight": 1.25,
-      "baseline": 17
+      "baseline": 18
     },
     {
       "type": "text",
-      "version": 157,
-      "versionNonce": 272749135,
+      "version": 158,
+      "versionNonce": 18007193,
       "isDeleted": false,
       "id": "mDfsgPRPNntAGFHaz8PrH",
       "fillStyle": "hachure",
@@ -205,7 +205,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1723475440473,
+      "updated": 1724396296874,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -220,8 +220,8 @@
     },
     {
       "type": "text",
-      "version": 519,
-      "versionNonce": 1798733345,
+      "version": 520,
+      "versionNonce": 1641819511,
       "isDeleted": false,
       "id": "8kIHQlfNbeO0QJdNii69u",
       "fillStyle": "hachure",
@@ -246,7 +246,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1723475440473,
+      "updated": 1724396296875,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -261,8 +261,8 @@
     },
     {
       "type": "text",
-      "version": 32,
-      "versionNonce": 1745924207,
+      "version": 33,
+      "versionNonce": 1533069689,
       "isDeleted": false,
       "id": "kJeLUwVmm3npEapZKVP6S",
       "fillStyle": "hachure",
@@ -287,7 +287,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1723475440474,
+      "updated": 1724396296876,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -668,8 +668,8 @@
     },
     {
       "type": "text",
-      "version": 31,
-      "versionNonce": 1659113985,
+      "version": 32,
+      "versionNonce": 520447639,
       "isDeleted": false,
       "id": "AUwQyicKP00bDfAxuTY2R",
       "fillStyle": "hachure",
@@ -689,7 +689,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1723475440474,
+      "updated": 1724396296876,
       "link": null,
       "locked": false,
       "fontSize": 20,
